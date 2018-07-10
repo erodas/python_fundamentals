@@ -10,3 +10,5 @@ def fetch_words():
 
     for word in story_words:
         print(word)
+
+print(__name__)
